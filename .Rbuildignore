@@ -1,0 +1,6 @@
+^\.gitignore$
+^docs$
+^README\.md$
+^PET\.Rproj$
+^tools$
+^_github\.zip$

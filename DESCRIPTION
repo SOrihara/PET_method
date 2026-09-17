@@ -1,0 +1,26 @@
+Package: PET
+Type: Package
+Title: Polynomial Approximation and Extrapolation for Average Treatment Effects
+Version: 0.0.2
+Authors@R: person("PET development contributors", role = c("aut", "cre"),
+    email = "maintainer@example.invalid")
+Author: PET development contributors [aut, cre] (provisional)
+Maintainer: To be designated <maintainer@example.invalid>
+Description: Implements polynomial approximation and extrapolation to the target
+    average treatment effect under limited overlap, and its augmented version,
+    following Orihara, Komukai and Li (2026) <doi:10.48550/arXiv.2608.09329>.
+    Supports binary treatments, continuous and binary outcomes, model formulas,
+    external nuisance predictions, automatic hyperparameter selection, and
+    trajectory diagnostics. Also implements two-parameter beta weighting for
+    weighted average treatment effects. Internal nuisance models use generalized
+    linear models; other learners are supported through external predictions.
+    Package identity and maintainer metadata are
+    provisional and must be replaced before public distribution.
+License: file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: stats, utils
+Suggests: ggplot2 (>= 3.4.0)
+NeedsCompilation: no
+URL: https://github.com/SOrihara/PET_method
+BugReports: https://github.com/SOrihara/PET_method/issues
