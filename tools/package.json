@@ -1,0 +1,14 @@
+{
+  "name": "pet-guide-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "guide": "node build-guide.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "marked": "17.0.5"
+  }
+}
