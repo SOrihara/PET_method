@@ -1,6 +1,4 @@
-# PET
-
-**Polynomial approximation and extrapolation to the target estimand**
+# PET: Polynomial approximation and Extrapolation to the Target estimand
 
 Development version 0.0.2. Implements PET and AIPW-PET for binary treatment with
 continuous or binary outcomes, following [Orihara, Komukai and Li (2026), version 2](https://arxiv.org/abs/2608.09329v2).
