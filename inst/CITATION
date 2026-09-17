@@ -1,0 +1,6 @@
+bibentry(bibtype = "Misc",
+  title = "Estimating the average treatment effect under limited overlap via Polynomial Approximation and Extrapolation",
+  author = c(person("Shunichiro", "Orihara"), person("Sho", "Komukai"), person("Fan", "Li")),
+  year = "2026", doi = "10.48550/arXiv.2608.09329",
+  url = "https://arxiv.org/abs/2608.09329v2",
+  note = "arXiv:2608.09329v2. Cite the methodology; package identity is provisional.")
